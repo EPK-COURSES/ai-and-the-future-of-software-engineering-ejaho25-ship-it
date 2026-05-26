@@ -1,1 +1,13 @@
+Initial research notes about AI in software engineering companies.
 
+Companies selected for research:
+- Microsoft
+- Google
+- Shopify
+- Duolingo
+
+Main topics:
+- AI coding assistants
+- Workflow automation
+- Productivity improvements
+- Challenges and limitations
