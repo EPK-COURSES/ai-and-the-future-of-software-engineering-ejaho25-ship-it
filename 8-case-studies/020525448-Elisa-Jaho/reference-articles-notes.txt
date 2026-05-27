@@ -11,3 +11,15 @@ Main topics:
 - Workflow automation
 - Productivity improvements
 - Challenges and limitations
+
+# Day 2 Notes
+
+Microsoft uses GitHub Copilot to help developers generate code suggestions automatically.
+
+Advantages:
+- Faster coding
+- Better productivity
+
+Challenges:
+- AI-generated bugs
+- Need for human verification
