@@ -7,3 +7,6 @@
 5. https://blog.duolingo.com/  
 6. https://www.shopify.com/blog  
 7. https://stackoverflow.blog/
+8. https://github.blog/ai-and-ml/github-copilot/
+9. https://cloud.google.com/blog/topics/developers-practitioners
+10. https://www.microsoft.com/en-us/ai
