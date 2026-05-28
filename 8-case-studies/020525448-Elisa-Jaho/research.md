@@ -32,16 +32,16 @@ Google integrates AI into cloud systems, software testing, and developer tools. 
 - AI may fail in complex situations
 - Possible software quality risks
 - 
-##Shopify
+  # Shopify
 
 Shopify encourages developers to use AI tools to improve workflow efficiency and automate repetitive development tasks. AI is used to support coding, productivity, and task management.
 
-##Benefits
+## Benefits
 Improved workflow efficiency
 Faster task completion
 Better developer productivity
 
-##Challenges
+### Challenges
 Need for human supervision
 Possible AI-generated mistakes
 Risk of overreliance on automation
