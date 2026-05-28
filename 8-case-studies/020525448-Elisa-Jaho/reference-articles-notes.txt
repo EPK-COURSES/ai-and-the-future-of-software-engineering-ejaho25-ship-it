@@ -23,3 +23,12 @@ Advantages:
 Challenges:
 - AI-generated bugs
 - Need for human verification
+
+# Day 3 Notes
+
+Shopify uses AI tools to improve developer productivity and automate repetitive tasks.
+
+Main observations:
+- AI improves workflow efficiency
+- Developers still review AI-generated outputs
+- Human decision making remains important
