@@ -32,3 +32,12 @@ Main observations:
 - AI improves workflow efficiency
 - Developers still review AI-generated outputs
 - Human decision making remains important
+
+# Day 4 notes
+
+Duolingo uses AI to automate content generation and improve language learning systems.
+
+Main observations:
+- AI supports scalability
+- Faster generation of educational content
+- Human review remains important for quality control
