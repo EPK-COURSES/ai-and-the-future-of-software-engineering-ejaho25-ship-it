@@ -10,8 +10,14 @@ After researching Microsoft and Google, I realized that AI is already becoming a
 
 I also understood that AI still requires human supervision because AI-generated solutions are not always correct or secure. This research helped me better understand both the opportunities and challenges of AI in the software industry.
 
-#Day 3
+# Day 3
 
 Today I researched Shopify and learned that more companies are encouraging developers to work together with AI tools instead of avoiding them. I realized that AI is becoming part of everyday software engineering workflows.
 
 This research also showed me that software engineers still need strong critical thinking and problem-solving skills because AI cannot fully replace human decision making.
+
+# Day 4
+
+Today I researched Duolingo and how the company uses AI to improve educational platforms and automate content generation. I learned that AI can help companies scale their services faster and support millions of users more efficiently.
+
+This research made me understand that AI is not only used for coding assistance, but also for improving user experience and business operations. However, human supervision is still necessary to maintain quality and accuracy.
