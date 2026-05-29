@@ -11,3 +11,5 @@
 9. https://cloud.google.com/blog/topics/developers-practitioners
 10. https://www.microsoft.com/en-us/ai
 11. https://shopify.engineering/tagged/ai
+12.https://blog.duolingo.com/
+13.https://blog.duolingo.com/tag/ai/
