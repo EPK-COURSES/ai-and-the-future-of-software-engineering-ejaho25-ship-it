@@ -49,7 +49,7 @@ Possible AI-generated mist
 
 Duolingo uses AI to support language learning systems and automate content generation. AI helps create exercises, improve user experience, and support large numbers of users efficiently.
 
- ## BEnefits
+ ## Benefits
 Faster content generation
 Improved user experience
 Better scalability for educational platforms
