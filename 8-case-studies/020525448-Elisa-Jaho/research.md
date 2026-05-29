@@ -43,5 +43,19 @@ Better developer productivity
 
 ### Challenges
 Need for human supervision
-Possible AI-generated mistakes
+Possible AI-generated mist
+
+ # Duolingo
+
+Duolingo uses AI to support language learning systems and automate content generation. AI helps create exercises, improve user experience, and support large numbers of users efficiently.
+
+ ## BEnefits
+Faster content generation
+Improved user experience
+Better scalability for educational platforms
+
+### Challenges
+AI-generated content may contain mistakes
+Need for human review and quality control
+Possible overdependence on automated systemsakes
 Risk of overreliance on automation
