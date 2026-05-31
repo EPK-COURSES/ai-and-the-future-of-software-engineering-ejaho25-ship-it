@@ -59,3 +59,12 @@ AI-generated content may contain mistakes
 Need for human review and quality control
 Possible overdependence on automated systemsakes
 Risk of overreliance on automation
+
+## Conclusion
+
+Artificial Intelligence is becoming an important part of software engineering in many industries. Companies such as Microsoft, Google, Shopify, and Duolingo use AI to improve productivity, automate repetitive tasks, and support developers in their daily work.
+
+Although AI offers many benefits, it also has limitations, including incorrect outputs, security concerns, and the need for human supervision. Based on these case studies, it is clear that AI assists software engineers rather than completely replacing them.
+
+The future of software engineering will likely involve collaboration between human developers and AI systems to create more efficient and innovative solutions.
+
