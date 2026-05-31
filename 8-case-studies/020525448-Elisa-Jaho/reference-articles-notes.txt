@@ -46,3 +46,17 @@ Main observations:
 
 Reviewed all research materials and organized project structure in GitHub.
 Preparing for final submission.
+
+# Final Notes
+
+Research completed and reviewed.
+
+Case studies analyzed:
+
+Microsoft
+Google
+Shopify
+Duolingo
+
+Key takeaway:
+AI helps software engineers become more productive, but human expertise remains necessary for quality control, decision making, and problem solving.
